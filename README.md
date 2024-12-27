@@ -12,4 +12,7 @@
 <br>
 <h2>Print do Desafio CSS</h2>
 <br>
+<<<<<<< HEAD
 <img scr="./desafio.png" alt="Print-do-desafio"/>
+=======
+<img scr="./desafio-css.png" alt="Print-do-desafio" />
